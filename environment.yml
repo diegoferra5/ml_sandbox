@@ -1,0 +1,8 @@
+name: my-ml-project
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - matplotlib
