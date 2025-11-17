@@ -1,0 +1,41 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments & packaging
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+.dist-info/
+build/
+dist/
+
+# Tool caches & reports
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+.coverage*
+.cache/
+
+# Notebooks
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Data, models, experiment outputs
+data/
+logs/
+checkpoints/
+runs/
+models/
+testçcnes/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
