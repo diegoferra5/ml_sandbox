@@ -6,3 +6,4 @@ dependencies:
   - scikit-learn
   - jupyterlab
   - matplotlib
+  - imblearn
